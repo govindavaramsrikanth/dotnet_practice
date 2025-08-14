@@ -1,0 +1,15 @@
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/bin/Debug/net9.0/oops
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/bin/Debug/net9.0/oops.deps.json
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/bin/Debug/net9.0/oops.runtimeconfig.json
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/bin/Debug/net9.0/oops.dll
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/bin/Debug/net9.0/oops.pdb
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.AssemblyInfoInputs.cache
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.AssemblyInfo.cs
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.csproj.CoreCompileInputs.cache
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.sourcelink.json
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.dll
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/refint/oops.dll
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.pdb
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/oops.genruntimeconfig.cache
+/Users/srikanthgovindavaram/repos/dotnet_practice/dotnet_practice/oops/obj/Debug/net9.0/ref/oops.dll
